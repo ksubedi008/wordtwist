@@ -326,7 +326,7 @@ export default function Home() {
           </a>
           <span>•</span>
           <a
-            href="https://kamal-subedi.com.np/"
+            href="https://kamal-subedi.name.np/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors"
